@@ -11,7 +11,11 @@ Learning😎
 
 
 # Tech Stack
-C++, 
+![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=python&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-1572B6?style=for-the-badge&logo=data&logoColor=white)
+![Feature Engineering](	https://img.shields.io/badge/Feature_Engineering-F7DF1E?style=for-the-badge&logo=forcast&logoColor=black)
+![PowerBI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=white)
 Python,
 Data Analysis,
 Exploratory Data Analysis(EDA),
