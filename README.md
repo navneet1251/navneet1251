@@ -20,7 +20,7 @@ PowerBI,
 Excel,
 GitHub,
 Machine learning
-![Machine learning](https://img.shields.io/badge/Machine_learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Machine learning](https://img.shields.io/badge/Machine_learning-ED8B00?style=for-the-badge&logo=ml&logoColor=white)
 
 
 
