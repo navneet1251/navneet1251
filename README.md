@@ -1,5 +1,5 @@
 <div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Navneet Agarwal </h1> </div>
-
+<h3 align="center">A passionate App developer</h3>
 # About Me
 Learning😎
 
