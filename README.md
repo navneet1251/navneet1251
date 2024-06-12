@@ -9,9 +9,11 @@ C++,
 Python,
 Data Analysis,
 Exploratory Data Analysis(EDA),
+Feature Engineering,
 PowerBI,
 Excel,
 GitHub,
+Machine learning
 
 # GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=navneet1251&hide_border=false&include_all_commits=false&count_private=false)
