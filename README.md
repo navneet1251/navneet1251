@@ -3,6 +3,7 @@
 <p align="center">Transforming Complex Data into actionable Insights 🚀</p>
 </div>
 
+---
 # About Me
 Learning😎
 
