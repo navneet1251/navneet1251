@@ -1,4 +1,7 @@
-<div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Navneet Agarwal </h1> </div>
+<div align="center">
+<h1> Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> , I'm Navneet Agarwal </h1>
+<p align="center">Transforming Complex Data into actionable Insights 🚀</p>
+</div>
 
 # About Me
 Learning😎
