@@ -26,9 +26,7 @@ Learning😎
 
 # GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=navneet1251&hide_border=false&include_all_commits=false&count_private=false)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navneet1251&show_icons=true&hide_border=false&count_private=false&include_all_commits=true)
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
-
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navneet1251&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=navneet1251&hide_border=false)
 ### Thanks for Visiting my GitHub Profile!
 ---
