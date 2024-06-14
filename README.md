@@ -26,9 +26,18 @@ Learning😎
 
 # GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=navneet1251&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=navneet1251&hide_border=false)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navneet1251&show_icons=true&hide_border=false&count_private=false&include_all_commits=true)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=navneet1251&hide_border=false)
+### Thanks for Visiting my GitHub Profile!
+---
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=navneet1251&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- made using https://prm.pushkaryadav.in -->
 
