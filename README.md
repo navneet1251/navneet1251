@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> , I'm Navneet Agarwal </h1>
-<p align="center">Transforming Complex Data into actionable Insights 🚀</p>
+<h3>Transforming Complex Data into actionable Insights 🚀</h3>
 </div>
 
 # About Me
