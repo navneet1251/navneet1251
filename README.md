@@ -19,7 +19,7 @@ Learning😎
 ![Feature Engineering](	https://img.shields.io/badge/Feature_Engineering-F7DF1E?style=for-the-badge&logo=feature_engineering&logoColor=black)
 ![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-F24E1E?style=for-the-badge&logo=eda&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=white)
-![SQL](https://img.shields.io/badge/Excel-FF9A00?style=for-the-badge&logo=excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF9A00?style=for-the-badge&logo=excel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Machine learning](https://img.shields.io/badge/Machine_learning-ED8B00?style=for-the-badge&logo=machine_learning&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
